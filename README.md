@@ -1,16 +1,21 @@
-## Hi there 👋
+Eaw Moçada, como é que cês tão? Espero que bem! 💛
+## Sejam BEM-VINDOS ao meu perfil.
 
-<!--
-**dianellicaun/dianellicaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou a **Dianelli Caun** 🌻
 
-Here are some ideas to get you started:
+✅ Estou estudando na [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ Estou me desenvolvendo na linguagem JavaScript;
+
+✅ Utilizo esse espaço para organização e compartilhamento dos meus Projetos desenvolvidos!
+
+## CONTATO:
+📫 dianellicaun@gmail.com
+
+📲 @dianelli.caun
+
+![](https://media.tenor.com/9-hYK8FXxfQAAAAi/funder-the-sea-octopus.gif)
+
+
+
+
